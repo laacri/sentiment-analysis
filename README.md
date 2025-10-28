@@ -5,3 +5,5 @@ This repository will contain the code for some experiments in the context of Sen
 TO-DO:
 - `SentimentAnalysisCompendium`: notebook with first experiments and list of existing techniques;
 - Python files for the actual project (finetuning + app)
+
+Note: this project is meant for learning and practicing purposes only.
